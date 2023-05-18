@@ -32,7 +32,7 @@ button {
     border: #3882F6;
     border-style: solid;
     border-radius: 8px;
-    width: 100px;
+    width: 150px;
 }
 
 .coffee {
@@ -80,6 +80,7 @@ ul {
     background-color: #1F2937;
     display: flex;
     color: #F9FAF8;
+    gap: 40px;
 }
 
 .info-text {
@@ -107,12 +108,12 @@ ul {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
-    padding: 100px 200px 10px;
+    padding: 100px 400px 10px;
 }
 
 .quoter {
     text-align: right;
-    padding: 0 275px 81px;
+    padding: 0 475px 81px;
     background-color: #e5e7eb;
     color: #1F2937;
     font-weight: bold;

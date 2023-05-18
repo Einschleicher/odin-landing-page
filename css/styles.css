@@ -28,6 +28,13 @@ button {
     font-weight: bold;
 }
 
+.subcontainer img {
+    border: #3882F6;
+    border-style: solid;
+    border-radius: 8px;
+    width: 100px;
+}
+
 .coffee {
     width: 350px;
     height: 100%;
@@ -96,11 +103,9 @@ ul {
 }
 
 .box {
-    border: #3882F6;
-    border-style: solid;
     width: 100px;
     height: 100px;
-    border-radius: 8px;
+
 }
 
 .subtext {

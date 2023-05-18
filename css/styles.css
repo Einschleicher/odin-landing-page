@@ -44,7 +44,7 @@ button {
 .hero,
 .call-to-action,
 .footer {
-    padding: 100px 200px;
+    padding: 100px 300px;
 }
 
 .container {
@@ -60,7 +60,7 @@ button {
     color: #F9FAF8;
     display: flex;
     align-items: center;
-    padding: 10px 200px;
+    padding: 10px 300px;
 }
 
 .logo {
@@ -81,6 +81,7 @@ ul {
     display: flex;
     color: #F9FAF8;
     gap: 40px;
+    justify-content: space-between;
 }
 
 .info-text {

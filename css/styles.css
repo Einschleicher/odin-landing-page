@@ -1,14 +1,33 @@
-div {
-    padding: 20px;
-}
-
 body {
     margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.header,
+.hero,
+.info,
+.quote,
+.call-to-action,
+.footer {
+    padding: 20px 100px;
 }
 
 .header {
     background-color: aquamarine;
     display: flex;
+    align-items: center;
+    padding: 10px 100px;
+}
+
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 10px;
+    margin-left: auto;
 }
 
 .hero {

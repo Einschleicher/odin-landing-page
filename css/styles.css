@@ -119,7 +119,29 @@ ul {
 }
 
 .call-to-action {
-    background-color: cadetblue;
+    color:#F9FAF8;
+}
+
+.action-box {
+    background-color:#3882F6;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    border-radius: 8px;
+}
+
+.borderbutton {
+    border-radius: 8px;
+    border: 2px solid;
+    border-color: #F9FAF8;
+    flex-shrink: 0;
+    width: 130px;
+    height: 40px;
+    padding: 0px;
+    margin: 0px;
+
 }
 
 .footer {

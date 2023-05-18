@@ -42,7 +42,6 @@ button {
 
 .header,
 .hero,
-.quote,
 .call-to-action,
 .footer {
     padding: 100px 200px;
@@ -102,18 +101,21 @@ ul {
     align-items: center;
 }
 
-.box {
-    width: 100px;
-    height: 100px;
-
-}
-
-.subtext {
-
-}
-
 .quote {
-    background-color: blanchedalmond;
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    padding: 100px 200px 10px;
+}
+
+.quoter {
+    text-align: right;
+    padding: 0 275px 81px;
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-weight: bold;
 }
 
 .call-to-action {

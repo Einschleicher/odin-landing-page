@@ -1,0 +1,32 @@
+div {
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: aquamarine;
+    display: flex;
+}
+
+.hero {
+    background-color: antiquewhite;
+}
+
+.info {
+    background-color: bisque;
+}
+
+.quote {
+    background-color: blanchedalmond;
+}
+
+.call-to-action {
+    background-color: cadetblue;
+}
+
+.footer {
+    background-color: darkkhaki;
+}

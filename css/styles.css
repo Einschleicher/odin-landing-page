@@ -1,7 +1,6 @@
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    color: white;
 }
 
 ul {
@@ -36,11 +35,18 @@ button {
 
 .header,
 .hero,
-.info,
 .quote,
 .call-to-action,
 .footer {
     padding: 100px 200px;
+}
+
+.container {
+    margin: 30px 200px 60px;
+}
+
+.info-text {
+    margin: 30px 200px;
 }
 
 .header {
@@ -67,10 +73,38 @@ ul {
 .hero {
     background-color: #1F2937;
     display: flex;
+    color: #F9FAF8;
 }
 
-.info {
-    background-color: bisque;
+.info-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.subcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box {
+    border: #3882F6;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+}
+
+.subtext {
+
 }
 
 .quote {

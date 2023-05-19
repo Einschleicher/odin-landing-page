@@ -6,4 +6,6 @@ The website will consist of 4 sections and a footer.
 
 #### Self-reflection
 
-*TBD*
+*You learn a lot by building a project from scratch. Just following tutorials is nowhere near as effective.*
+
+*I'm looking forward to do more project based learning.*
